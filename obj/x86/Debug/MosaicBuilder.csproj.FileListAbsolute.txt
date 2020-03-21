@@ -1,0 +1,5 @@
+C:\Users\IIS\Documents\Visual Studio 2010\Projects\MosaicBuilder\MosaicBuilder\bin\Debug\MosaicBuilder.exe
+C:\Users\IIS\Documents\Visual Studio 2010\Projects\MosaicBuilder\MosaicBuilder\bin\Debug\MosaicBuilder.pdb
+C:\Users\IIS\Documents\Visual Studio 2010\Projects\MosaicBuilder\MosaicBuilder\obj\x86\Debug\MosaicBuilder.exe
+C:\Users\IIS\Documents\Visual Studio 2010\Projects\MosaicBuilder\MosaicBuilder\obj\x86\Debug\MosaicBuilder.pdb
+C:\Users\IIS\documents\visual studio 2010\Projects\MosaicBuilder\MosaicBuilder\obj\x86\Debug\MosaicBuilder.csprojResolveAssemblyReference.cache
