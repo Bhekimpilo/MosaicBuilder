@@ -132,10 +132,12 @@ namespace MosaicBuilder
             var pictureTiles = AnalysePictures(albumDir);
             int count = 0;
 
-            var mosaic = new Bitmap(image.Width, image.Height);
+            int tileWidth = image.Width / size.Width, tileHeight = image.Height / size.Height;
+
+            var mosaic = new Bitmap(image.Width - (image.Width % tileWidth), image.Height - (image.Height % tileWidth));
             var g = Graphics.FromImage(mosaic);
 
-            int tileWidth = image.Width / size.Width, tileHeight = image.Height / size.Height;
+            
 
             for (int x = 0; x < tiles.GetLength(0); x++)
             {

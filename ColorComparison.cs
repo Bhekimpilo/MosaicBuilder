@@ -53,7 +53,6 @@ namespace MosaicBuilder
 
         }
 
-
         public C_Lab XYZtoCLab(double X, double Y, double Z)
         {
             if (X > 0.008856)

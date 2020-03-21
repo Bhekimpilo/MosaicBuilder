@@ -13,9 +13,9 @@ namespace MosaicBuilder
     {
         static void Main(string[] args)
         {            
-            var file = @""; //Path to image
-            var tileFolder = @""; //Folder with images
-            var outputfileName = ""; //Optional. Default name is TestImage
+            var file = @"D:\MosaicDir\test.jpg"; //Path to image
+            var tileFolder = @"D:\MosaicDir\ImageTiles"; //Folder with images
+            var outputfileName = "Again"; //Optional. Default name is TestImage
 
             Console.WriteLine("Starting...");
 
